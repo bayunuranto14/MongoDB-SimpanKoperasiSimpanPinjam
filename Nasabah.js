@@ -2,7 +2,7 @@
 const mongoose = require("mongoose");
 mongoose.connect("mongodb://localhost:27017/db-koperasi-simpan-pinjam");
 
-const pegawaiSchema = new mongoose.Schema({
+const nasabahSchema = new mongoose.Schema({
     id_nasabah: Number,
     nama_nsb: String,
     gender: String,
