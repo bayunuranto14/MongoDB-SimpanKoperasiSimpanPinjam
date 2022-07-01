@@ -126,4 +126,4 @@ const pegawaiSchema = new mongoose.Schema({
     }
     }
     );
-//Membuat Data
+
