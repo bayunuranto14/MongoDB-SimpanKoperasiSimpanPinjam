@@ -8,7 +8,7 @@
 <li> </li>
 <li> </li> <br/>
 <h3>Adapun Scheme yang dipakai : </h3><br/>
-<li> Nama Database : </li>
+<li> Name Of Database : </li>
 <h3> Collections : </h3>
 <ul>
 <li> 1. Nasabah </li>
