@@ -3,7 +3,7 @@ const mongoose = require("mongoose");
 mongoose.connect("mongodb://localhost:27017/db-koperasi-simpan-pinjam");
 
 //Membuat Data
-const simpananschema = new mongoose.Schema({
+const simpananSchema = new mongoose.Schema({
     id_simpan: Number,
     tgl_simpan: Date,
     nama_nsb: String,
