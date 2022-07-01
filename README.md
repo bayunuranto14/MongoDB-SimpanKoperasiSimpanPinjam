@@ -8,7 +8,7 @@
 <li> Imam Fadhillah Rahman | 2019230103 </li>
 <li> Raihan Syah Putra Nasution | 2019230089</li> <br/>
 <h3>Adapun Scheme yang dipakai : </h3><br/>
-<li> Name Of Database : DB_Koperasi_Simpan_Pinjam </li>
+<li> Name Of Database : DB_Sistem_Koperasi_Simpan_Pinjam </li>
 <h3> Collections : </h3>
 <ul>
 <li> 1. Nasabah </li>
@@ -23,5 +23,5 @@
 <li> <a href ="https://github.com/nodejs/node">Installation Node JS </a> </li> <br/>
 <p>Using Git to Clone this Project </p>
 <p>
- <li>git clone https://github.com/bayunuranto14/MongoDB-SimpanKoperasiSimpanPinjam </li> </p>
+ <li>git clone https://github.com/bayunuranto14/MongoDB-SistemKoperasiSimpanPinjam </li> </p>
 
