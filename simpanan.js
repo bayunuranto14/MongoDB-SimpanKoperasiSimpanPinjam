@@ -78,7 +78,7 @@ simpanan.insertMany(
             console.log(eror);
         } else {
             console.log("Data Berhasil Disimpan!");
-            mongoose.Connection.close();
+            mongoose.connection.close();
         }
     }
 );
