@@ -23,5 +23,5 @@
 <li> <a href ="https://github.com/nodejs/node">Installation Node JS </a> </li> <br/>
 <p>Using Git to Clone this Project </p>
 <p>
- <li>git clone https://github.com/bayunuranto14/MongoDB-SimpanKoperasiSimpanPinjam </li> </p>
+ <li>git clone https://github.com/bayunuranto14/MongoDB-SistemKoperasiSimpanPinjam </li> </p>
 
