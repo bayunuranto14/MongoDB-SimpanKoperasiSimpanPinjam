@@ -5,10 +5,10 @@
 <h4> Adapun Anggota yang berkontribusi dari kelompok ini yaitu :
 <li> Bayu Afif Nuranto | 2020230903 </li>
 <li> Fandi Ahmad | 2019230101 </li>
-<li> </li>
-<li> </li> <br/>
+<li> Imam Fadhillah Rahman | 2019230103 </li>
+<li> Raihan Syah Putra Nasution | 2019230089</li> <br/>
 <h3>Adapun Scheme yang dipakai : </h3><br/>
-<li> Name Of Database : </li>
+<li> Name Of Database : DB_Koperasi_Simpan_Pinjam </li>
 <h3> Collections : </h3>
 <ul>
 <li> 1. Nasabah </li>
