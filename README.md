@@ -4,7 +4,7 @@
 <p> Pada Project kali ini digunakan untuk persyaratan Final Project dari salah satu mata kuliah yaitu Basis Data Lanjut . <br/>
 <h4> Adapun Anggota yang berkontribusi dari kelompok ini yaitu :
 <li> Bayu Afif Nuranto | 2020230903 </li>
-<li> </li>
+<li> Fandi Ahmad | 2019230101 </li>
 <li> </li>
 <li> </li> <br/>
 <h3>Adapun Scheme yang dipakai : </h3><br/>
