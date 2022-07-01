@@ -74,11 +74,11 @@ const slamet = new pinjaman({
   total_bayar: 700000,
 });
 
-const arya = new pinjaman({
+const budi = new pinjaman({
   id_pinjam: 00001,
   id_nsb: 001001,
   tgl_pinjam: 12 / 02 / 2022,
-  nama_nsb: "Arya Susilo",
+  nama_nsb: "Budi Prasetyo",
   jml_pinjam: 8000000,
   bunga: 10,
   angsuran: "Angsuran ke-10",
@@ -96,18 +96,6 @@ const maryani = new pinjaman({
   angsuran: "Angsuran ke-1",
   tgl_bayar: 12 / 03 / 2022,
   total_bayar: 100000,
-});
-
-const arya = new pinjaman({
-  id_pinjam: 00001,
-  id_nsb: 001001,
-  tgl_pinjam: 12 / 02 / 2022,
-  nama_nsb: "Budi Prasetyo",
-  jml_pinjam: 2000000,
-  bunga: 10,
-  angsuran: "Angsuran ke-1",
-  tgl_bayar: 12 / 03 / 2022,
-  total_bayar: 200000,
 });
 
 const roy = new pinjaman({
