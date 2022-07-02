@@ -6,7 +6,7 @@
 <li> Bayu Afif Nuranto | 2020230903 </li>
 <li>Fandi Ahmad | 2019230101 </li>
 <li> Imam Fadhillah Rahman | 2019230103 </li>
-<li> Raihan Syah Putra Nasution | | 2019230089/li> <br/>
+<li> Raihan Syah Putra Nasution | 2019230089</li> <br/>
 <h3>Adapun Scheme yang dipakai : </h3><br/>
 <li> Name Of Database : DB_Sistem_Koperasi_Simpan_Pinjam </li>
 <h3> Collections : </h3>
