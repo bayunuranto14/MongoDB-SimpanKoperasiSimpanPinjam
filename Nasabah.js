@@ -5,11 +5,11 @@ mongoose.connect("mongodb://localhost:27017/db-koperasi-simpan-pinjam");
 const pegawaiSchema = new mongoose.Schema({
     id_nasabah: Number,
     nama_nsb: String,
-    gender: String,
+    gender_nsb: String,
     alamat: String,
     kota: String,
     no_identitas: Number,
-    no_telp: Number,
+    telp_nsb: Number,
     pekerjaan: String,
 
    });
@@ -17,7 +17,7 @@ const pegawaiSchema = new mongoose.Schema({
    const arya = new nasabah({
     id_nasabah: 001001 ,
     nama_nsb: "Arya Susilo",
-    gender: "Laki-laki",
+    gender_nsb: "Laki-laki",
     alamat: "Jl. Raya Bekasi",
     kota: "Bekasi",
     no_identitas: 3216020709123456,
