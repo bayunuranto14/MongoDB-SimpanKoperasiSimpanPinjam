@@ -111,7 +111,7 @@ const pegawaiSchema = new mongoose.Schema({
     alamat: "Jl. Menuju Kekuasaan",
     kota: "Bogor",
     no_identitas: 3329834086403453,
-    no_telp: 082117986413,
+    no_telp: 082132486413,
     pekerjaan: "Politikus"
    });
    //Mengecek apakah data sudah tersimpan atau error
