@@ -3,10 +3,10 @@ const mongoose = require("mongoose");
 mongoose.connect("mongodb://localhost:27017/db-koperasi-simpan-pinjam");
 
 const pegawaiSchema = new mongoose.Schema({
-    id_pegawai: Number,
-    nama_peg: String,
-    telp_peg: Number,
-    gender: String,
+    Id_pegawai: Number,
+    Nama: String,
+    Telepon: Number,
+    Gender: String,
    });
    const pegawai = mongoose.model("pegawai", pegawaiSchema);
    const fandi = new pegawai({
