@@ -104,6 +104,15 @@ const transaksiSchema = new mongoose.Schema({
         pekerjaan_nsb: "",
         jml_transaksi: 400000 ,
     });
+    const  = new transaksi({
+        tgl_transaksi: "",
+        jenis_transaksi: "Simpanan" ,
+        nama_nasabah: "" ,
+        gender_nsb: "" ,
+        telp_nsb: ,
+        pekerjaan_nsb: "",
+        jml_transaksi: 400000 ,
+    });
 
     //Simpanan
     
