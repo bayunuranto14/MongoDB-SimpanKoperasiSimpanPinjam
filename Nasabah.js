@@ -76,7 +76,7 @@ const pegawaiSchema = new mongoose.Schema({
    });
    const budi = new nasabah({
     id_nasabah: 001007 ,
-    nama_nsb: "Budi Prasetya",
+    nama_nsb: "Budi Prasetyo",
     gender: "Laki-laki",
     alamat: "Jl. Raya Ragunan",
     kota: "Jakarta",
